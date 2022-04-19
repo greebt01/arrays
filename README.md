@@ -15,3 +15,6 @@ Used deeptostring to show array as numbers
 # Update4
 Changed array to 3x3 with 5 items on each line
 
+# Update5
+Changed dimension and notation of array
+
