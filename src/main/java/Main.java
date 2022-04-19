@@ -5,6 +5,6 @@ public class Main {
         int[][] numbers = new int[2][3];
         numbers[0][0] = 1;
         System.out.println(numbers.length);
-        System.out.println(Arrays.toString(numbers));
+        System.out.println(Arrays.deepToString(numbers));
     }
 }

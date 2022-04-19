@@ -9,3 +9,6 @@ Sorts the array when it is returned to the command line.
 # Update2
 Made array 2x3 and removed sort.
 
+# Update3
+used deeptostring to show array as numbers
+
