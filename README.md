@@ -6,3 +6,6 @@ Program made to display what can be done with arrays.  It counts the array lengt
 # Update1
 Sorts the array when it is returned to the command line.
 
+# Update2
+Made array 2x3 and removed sort.
+
